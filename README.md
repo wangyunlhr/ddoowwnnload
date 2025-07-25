@@ -24,7 +24,8 @@
    ```bash
    bash download.sh
 2. 下载chrome插件 https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn
-3. 下载链接https://huggingface.co/datasets/JianyuanWang/co3d_anno/tree/main   插件筛选一共104个文件
-   ![示例图片](image/2.png)
-4. 修改下载路径，不询问
+3. 修改下载路径，不询问
    ![示例图片](image/1.png)
+4. 下载链接https://huggingface.co/datasets/JianyuanWang/co3d_anno/tree/main   插件筛选一共104个文件
+   ![示例图片](image/2.png)
+
