@@ -20,7 +20,7 @@
 
 ## 🛠️ 使用方法
 
-1. 执行以下命令下载数据：
+1. ubuntu执行以下命令下载数据：
    ```bash
    bash download.sh
 2. 下载chrome插件 https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn
