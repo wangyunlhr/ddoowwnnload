@@ -22,7 +22,7 @@
 
 1. ubuntu执行以下命令下载数据：
    ```bash
-   bash download.sh
+   bash vggt_train_dataset.sh
 2. 下载chrome插件 https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn
 3. 修改下载路径，不询问
    ![示例图片](image/1.png)
