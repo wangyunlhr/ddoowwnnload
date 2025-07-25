@@ -23,4 +23,5 @@
 1. 执行以下命令下载数据：
    ```bash
    bash download.sh
-2. 
+2. 下载chrome插件 https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn
+3. ![示例图片](images/1.png)
